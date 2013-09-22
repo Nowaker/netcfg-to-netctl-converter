@@ -11,7 +11,7 @@ Only a subset of netcfg/netctl directives is supported. Generally, all ethernets
 ## Example output
 
 ```text
-# netcfg-to-netctl-converter.sh -f
+# netcfg-to-netctl-converter -f
 br0
   /etc/network.d/br0 (existing)
     INTERFACE="br0"
